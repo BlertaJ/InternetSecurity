@@ -1,0 +1,10 @@
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\bin\Debug\Steganography.exe
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\bin\Debug\Steganography.pdb
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\obj\Debug\Steganography.csprojAssemblyReference.cache
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\obj\Debug\Steganography.Form1.resources
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\obj\Debug\Steganography.exe
+C:\Users\bitkompc\Documents\GitHub\Projekti_SiguriaeTeDhenave\Projkti_1\Steganography\Steganography\obj\Debug\Steganography.pdb
